@@ -1,2 +1,3 @@
-# kaggle-notebooks
-My Public notebooks on kaggle
+# Kaggle notebooks
+
+This repository contains notebooks on my kaggle profile.
